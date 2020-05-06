@@ -36,24 +36,12 @@
                     </rowConstraints>
                     <children>
                         <Label text="Japanese title:" GridPane.rowIndex="1">
-                            <font>
-                                <Font name="System Bold" size="12.0"/>
-                            </font>
                         </Label>
                         <Label text="Furigana title:" GridPane.rowIndex="2">
-                            <font>
-                                <Font name="System Bold" size="12.0"/>
-                            </font>
                         </Label>
                         <Label text="Romaji title:" GridPane.rowIndex="3">
-                            <font>
-                                <Font name="System Bold" size="12.0"/>
-                            </font>
                         </Label>
                         <Label text="English title:" GridPane.rowIndex="4">
-                            <font>
-                                <Font name="System Bold" size="12.0"/>
-                            </font>
                         </Label>
                         <TextField fx:id="txtJapanese" GridPane.columnIndex="1" GridPane.columnSpan="2"
                                    GridPane.rowIndex="1"/>
