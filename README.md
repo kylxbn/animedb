@@ -45,12 +45,12 @@ Search for seasons or episodes using various data.
 
 ### Main screen
 
-![](https://test.kylxbn.com/animedb/main.png)
+![](doc/main.png)
 
 ### Episode list
 
-![](https://test.kylxbn.com/animedb/episodes.png)
+![](doc/episodes.png)
 
 ### Technical metadata
 
-![](https://test.kylxbn.com/animedb/tech.png)
+![](doc/tech.png)
